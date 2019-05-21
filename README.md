@@ -1,6 +1,5 @@
 # Console Lab Level 1
 
-## TEST
 
 ## Objectives
 

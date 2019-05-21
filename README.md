@@ -1,5 +1,7 @@
 # Console Lab Level 1
 
+## TEST
+
 ## Objectives
 
 1. In this lab students will learn to navigate their file system using only the terminal
